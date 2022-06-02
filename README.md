@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Expolite
+- 👋 Hi, I’m @Expolite as a nickname here in GithHub.
 - 👀 I’m interested in ... anime,gaming, sports, sleeping, writing a code with coffee.
 - 🌱 I’m currently learning ... Web developing using PHP, MySQL, JavaScript, CSS, HTML, Bootstrap and more.
 - 💞️ I’m looking to collaborate on ... web developing for now.
