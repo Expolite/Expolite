@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Expolite as a nickname here in GithHub.
-- 👀 I’m interested in ... anime, gaming, sports, sleeping, writing a code with coffee.
-- 🌱 I’m learning ... Java and Practiicng C++ again.
+- 👀 I’m interested in ... anime, games, sports, coffee, reading, and coding.
+- 🌱 I’m learning ... Web development and other languages.
 
-- :keyboard: HTML, CSS, JavaScript, PHP, SQL, C++, Java.
+- :keyboard: HTML, CSS, JavaScript, PHP, SQL, C++, Java, Python.
 
 <!---
 Expolite/Expolite is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
