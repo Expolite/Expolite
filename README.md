@@ -2,7 +2,9 @@
 - 👀 I’m interested in ... anime, games, sports, coffee, reading, and coding.
 - 🌱 I’m learning ... Web development and other languages.
 
-- :keyboard: HTML, CSS, JavaScript, PHP, SQL, C++, Java, Python.
+- :keyboard: HTML, CSS, JavaScript, PHP, SQL, C++, Python.
+
+- update coming soon!
 
 <!---
 Expolite/Expolite is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
